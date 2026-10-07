@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "toolpkg_id": "com.readingroom.operit",
+  "version": "1.7.0",
+  "main": "main.js",
+  "display_name": {
+    "zh": "阅读室",
+    "en": "Reading Room"
+  },
+  "description": {
+    "zh": "看伴侣的阅读进度：读了哪些、没读哪些、喜欢哪些、它的想法和想问你的问题。复读时你和它都能在下面加想法。",
+    "en": "Shows reading progress: what has been read, what is left, favourites, its notes and questions. Both of you can append thoughts."
+  },
+  "author": ["reading-room"],
+  "enabled_by_default": true,
+  "subpackages": []
+}

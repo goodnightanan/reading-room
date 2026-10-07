@@ -1,0 +1,29 @@
+# 书库正文一律不进仓库（版权 + 隐私）
+# 注意锚在根目录，别把 示例/书库/ 也挡掉
+/源书/
+/书库/
+/原子库/
+/归档/
+/待整理/
+*.rar
+*.zip
+
+# 运行数据
+/state.json
+/threads.jsonl
+/log.jsonl
+/notes/
+/read/
+
+# 构建与环境
+node_modules/
+.npm-cache/
+types/
+dist/
+build/
+*.tsbuildinfo
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
