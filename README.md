@@ -42,6 +42,15 @@
 
 前提：手机上装了 **Operit AI**（实测 1.12.2）。四样东西，分三处放。
 
+### 直接下载
+
+- [reading_ritual.js](https://github.com/goodnightanan/reading-room/raw/main/reading_ritual/reading_ritual.js) —— 工具包，给他用的 13 个工具
+- [reading_room.toolpkg](https://github.com/goodnightanan/reading-room/raw/main/reading_room/reading_room.toolpkg) —— 侧边栏，给你看进度和想法
+- [skill/ReadingRitual](https://github.com/goodnightanan/reading-room/tree/main/skill/ReadingRitual) —— 他的阅读规程，整个文件夹都要
+- [示例/](https://github.com/goodnightanan/reading-room/tree/main/示例) —— 书库的起点，三份现成的原子文件
+
+手机上点前两个链接就能直接下载。
+
 | 放什么 | 放到哪 |
 |:---|:---|
 | `reading_ritual/reading_ritual.js` | 用 App 的「从存储导入」导入 —— 给他的工具 |
